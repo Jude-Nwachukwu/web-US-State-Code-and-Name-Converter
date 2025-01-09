@@ -44,6 +44,8 @@ This template was created using GTM's custom template editor and utilizes sandbo
 
 This project is licensed under the [MIT License](LICENSE).
 
+Created as part of the [Dumbdata.co](https://dumbdata.co) measurement resource hub to provide you with a resources that helps simplify measurement.
+
 ## Support
 
 If you encounter any issues or have suggestions, please open an issue in this repository or contact me.
