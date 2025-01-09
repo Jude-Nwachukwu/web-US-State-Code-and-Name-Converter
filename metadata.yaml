@@ -1,0 +1,5 @@
+homepage: 'https://dumbdata.co/'
+documentation: 'https://github.com/Jude-Nwachukwu/web-US-State-Code-and-Name-Converter'
+versions:
+  - sha: cf7df238db21f37ab30e775a02bc59d380a7deb1
+    changeNotes: Initial release.
